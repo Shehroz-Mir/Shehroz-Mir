@@ -46,7 +46,7 @@ Building retrieval-based assistants and experimenting with approaches to make re
 ## Connect
 
 - **GitHub:** [@Shehroz-Mir](https://github.com/Shehroz-Mir)
-- **LinkedIn:** [Find me on LinkedIn](https://www.linkedin.com/in/shehroz-mir/)
+- **LinkedIn:** [Find me on LinkedIn](https://www.linkedin.com/in/shehrozmir/)
 
 ---
 
